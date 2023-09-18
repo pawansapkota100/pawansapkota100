@@ -36,11 +36,10 @@ I'm dedicated to staying up-to-date with the latest trends and best practices in
 I'm excited to continue developing my skills and knowledge in the field of technology. My passion for learning, coupled with my technical expertise, makes me an excellent candidate for any tech-related role. Let's connect and explore how we can work together to create innovative solutions!
 
 ## Other Interests 🌟
+ I have a few other interests that help me maintain a balanced life:
 
-Outside of the tech world, I have a few other interests that help me maintain a balanced life:
-
-- 📷 Photography: Capturing moments and creating visual stories.
-- 🎵 Music: Playing instruments and exploring various genres.
+💡 Exploring New Technology: Staying up-to-date with the latest advancements and innovations in the tech industry.
+📺 Watching Tech Videos: Learning from experts and discovering new insights through online tech content.
 
 ## Connect Me 🤝
 

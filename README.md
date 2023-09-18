@@ -38,7 +38,7 @@ I'm excited to continue developing my skills and knowledge in the field of techn
 ## Other Interests 🌟
  I have a few other interests that help me maintain a balanced life:
 
-💡 Exploring New Technology: Staying up-to-date with the latest advancements and innovations in the tech industry.
+💡 Exploring New Technology: Staying up-to-date with the latest advancements and innovations in the tech industry.<br>
 📺 Watching Tech Videos: Learning from experts and discovering new insights through online tech content.
 
 ## Connect Me 🤝

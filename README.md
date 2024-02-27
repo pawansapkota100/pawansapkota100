@@ -1,6 +1,5 @@
 # Pawan Sapkota
 
-[![Phone Icon](https://img.icons8.com/ios/50/000000/phone--v1.png)](tel:9840408526) 9840408526  
 [![Email Icon](https://img.icons8.com/ios/50/000000/email-open--v1.png)](mailto:pawansapkota856@gmail.com) pawansapkota856@gmail.com  
 [![LinkedIn Icon](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/pawan-sapkota856/) [LinkedIn](https://www.linkedin.com/in/pawan-sapkota856/)  
 [![GitHub Icon](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/pawansapkota100) [GitHub](https://github.com/pawansapkota100)  
@@ -38,7 +37,7 @@ I am a self-learner with a strong drive, eager to make an impact. I have a solid
 
 - PYTHON FOR EVERYBODY, University of Michigan - School of Information, 2020
 - WEB APPLICATION TECHNOLOGIES AND DJANGO, University of Michigan - School of Information, 2023
-- 3 MONTH INTERNSHIP, Naxa, 2023
+- 3 MONTH INTERNSHIP
 
 ## Projects
 

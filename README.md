@@ -1,46 +1,55 @@
-### Hi there 👋
+# Pawan Sapkota
 
-<!--
-**pawansapkota100/pawansapkota100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Phone Icon](https://img.icons8.com/ios/50/000000/phone--v1.png)](tel:9840408526) 9840408526  
+[![Email Icon](https://img.icons8.com/ios/50/000000/email-open--v1.png)](mailto:pawansapkota856@gmail.com) pawansapkota856@gmail.com  
+[![LinkedIn Icon](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/pawan-sapkota856/) [LinkedIn](https://www.linkedin.com/in/pawan-sapkota856/)  
+[![GitHub Icon](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/pawansapkota100) [GitHub](https://github.com/pawansapkota100)  
+[![Website Icon](https://img.icons8.com/ios/50/000000/domain.png)](http://pawansapkota1.com.np/) [Website](http://pawansapkota1.com.np/)
 
-Here are some ideas to get you started:
+## Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#  I'm Pawan Sapkota 👋
+- Python (Programming Language) LinkedIn Skill Assessment badge
+- HTML LinkedIn Skill Assessment badge
 
-I am a student with a strong passion for programming and technology. Here's a bit about me:
+## Skills
 
-- 🚀 Proficient in several programming languages, including C, C++, Python, and Java.
-- 💻 Experience with web development, creating dynamic websites using HTML, CSS, JavaScript, and Django.
-- 📊 Familiar with database management systems like MySQL, SQLLITE, enabling efficient database solutions for projects.
+- Programming Languages: Python
+- Web Development: HTML, CSS, JavaScript, Django
+- Version Control: Git, GitHub
+- Databases: MySQL, SQLite, Postgres, Postgis
+- Tools: Jira, Slack, Figma, Confluence, Docker, postman, swagger
+- Soft skills: Self-Learner, eager to learn, Problem solving, Teamwork, Creativity, Time Management
 
-## Tech Interests 🌐📱
+## Hobbies and Interests
 
-I have a strong passion for technology, with a particular focus on:
+- Learning new Technologies
+- Knowledge Sharing
 
-- 🌐 **Web Development:** Creating dynamic and responsive websites.
-- 📱 **Mobile Application Development:** Developing mobile apps for both Android and iOS platforms.
-I'm dedicated to staying up-to-date with the latest trends and best practices in these areas. Let's connect and share our knowledge in the exciting world of web and mobile development!
+## Summary
 
+I am a self-learner with a strong drive, eager to make an impact. I have a solid foundation in Python and Django, with hands-on experience in real-world projects.
 
-## What I'm Excited About 🚀
+## Education
 
-I'm excited to continue developing my skills and knowledge in the field of technology. My passion for learning, coupled with my technical expertise, makes me an excellent candidate for any tech-related role. Let's connect and explore how we can work together to create innovative solutions!
+- BSc. CSIT, College of Applied Business, Kathmandu, December 2019 - Present
+- High school, NIST, Kathmandu, June 2017 - June 2019
 
-## Other Interests 🌟
- I have a few other interests that help me maintain a balanced life:
+## Training/Certifications
 
-💡 Exploring New Technology: Staying up-to-date with the latest advancements and innovations in the tech industry.<br>
-📺 Watching Tech Videos: Learning from experts and discovering new insights through online tech content.
+- PYTHON FOR EVERYBODY, University of Michigan - School of Information, 2020
+- WEB APPLICATION TECHNOLOGIES AND DJANGO, University of Michigan - School of Information, 2023
+- 3 MONTH INTERNSHIP, Naxa, 2023
 
-## Connect Me 🤝
+## Projects
 
-LinkedIn: https://www.linkedin.com/in/pawan-sapkota856/
+- [LUGAFATO: Fashion E-commerce](https://github.com/pawansapkota100/LugaFato-Fashion-e-commerce) - Django-based online clothing store.
+- [Personal Portfolio Website](https://github.com/pawansapkota100/personal_portfolio_website) - Basic HTML, CSS, and JavaScript portfolio website.
+- Facial Recognition System - Developed using Python and OpenCV.
+- Stock Price Prediction - Machine learning model for predicting stock prices.
+
+## Extracurricular Activities
+
+- AIFIVERSE Techies Meetup 2022
+- Volunteer Work at CSIT Association of Nepal
+- Volunteer Work at NUS MUN Nepal 2016
+

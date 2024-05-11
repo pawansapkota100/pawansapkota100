@@ -28,6 +28,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/pawansapkota100/pawansapkota100/output/snake.svg" alt="Snake animation" />
 
-###
+
+

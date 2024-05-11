@@ -1,54 +1,31 @@
-# Pawan Sapkota
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Pawan Sapkota!" title="👋 Hi there! I'm Pawan Sapkota!"/>]
+## 👋 Hello, I'm Pawan Sapkota!
 
-[![Email Icon](https://img.icons8.com/ios/50/000000/email-open--v1.png)](mailto:pawansapkota856@gmail.com) pawansapkota856@gmail.com  
-[![LinkedIn Icon](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/pawan-sapkota856/) [LinkedIn](https://www.linkedin.com/in/pawan-sapkota856/)  
-[![GitHub Icon](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/pawansapkota100) [GitHub](https://github.com/pawansapkota100)  
-[![Website Icon](https://img.icons8.com/ios/50/000000/domain.png)](http://pawansapkota1.com.np/) [Website](http://pawansapkota1.com.np/)
+Welcome to my GitHub profile! I am a student with a strong passion for programming and technology.
 
-## Achievements
+### 💻 About Me
 
-- Python (Programming Language) LinkedIn Skill Assessment badge
-- HTML LinkedIn Skill Assessment badge
+- 🎓 Student with a passion for programming and technology.
+- 🌐 Proficient in programming languages: C, C++, Python, Java.
+- 🌐 Experienced in web development: HTML, CSS, JavaScript, PHP.
+- 💾 Familiar with database management systems: MySQL, Oracle.
+- 🖥️ Interested in network protocols and operating systems: Linux, Windows, macOS.
+- 🛠️ Skilled in version control systems: Git, GitHub.
 
-## Skills
+### 🚀 Projects
 
-- Programming Languages: Python
-- Web Development: HTML, CSS, JavaScript, Django
-- Version Control: Git, GitHub
-- Databases: MySQL, SQLite, Postgres, Postgis
-- Tools: Jira, Slack, Figma, Confluence, Docker, postman, swagger
-- Soft skills: Self-Learner, eager to learn, Problem solving, Teamwork, Creativity, Time Management
+Here are some of my projects:
 
-## Hobbies and Interests
+- [LugaFato Fashion E-commerce](https://github.com/pawansapkota100/LugaFato-Fashion-e-commerce)
+- [Recipe Sharing App](https://github.com/pawansapkota100/Recipe-Sharing-App)
+- [Dice App using Flutter](https://github.com/pawansapkota100/Dice_App_using_Flutter)
 
-- Learning new Technologies
-- Knowledge Sharing
+### 🔗 Connect with Me
 
-## Summary
+- [LinkedIn](https://www.linkedin.com/in/pawansapkota100/)
+- [Instagram](https://www.instagram.com/paawan_sapkotaa/)
 
-I am a self-learner with a strong drive, eager to make an impact. I have a solid foundation in Python and Django, with hands-on experience in real-world projects.
+### 📫 Let's Connect!
 
-## Education
-
-- BSc. CSIT, College of Applied Business, Kathmandu, December 2019 - Present
-- High school, NIST, Kathmandu, June 2017 - June 2019
-
-## Training/Certifications
-
-- PYTHON FOR EVERYBODY, University of Michigan - School of Information, 2020
-- WEB APPLICATION TECHNOLOGIES AND DJANGO, University of Michigan - School of Information, 2023
-- 3 MONTH INTERNSHIP
-
-## Projects
-
-- [LUGAFATO: Fashion E-commerce](https://github.com/pawansapkota100/LugaFato-Fashion-e-commerce) - Django-based online clothing store.
-- [Personal Portfolio Website](https://github.com/pawansapkota100/personal_portfolio_website) - Basic HTML, CSS, and JavaScript portfolio website.
-- Facial Recognition System - Developed using Python and OpenCV.
-- Stock Price Prediction - Machine learning model for predicting stock prices.
-
-## Extracurricular Activities
-
-- AIFIVERSE Techies Meetup 2022
-- Volunteer Work at CSIT Association of Nepal
-- Volunteer Work at NUS MUN Nepal 2016
+I'm always interested in connecting with like-minded individuals. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pawansapkota100/)!
 

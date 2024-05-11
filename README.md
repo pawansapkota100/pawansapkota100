@@ -1,4 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Pawan Sapkota!" title="👋 Hi there! I'm Pawan Sapkota!"/>]
 ## 👋 Hello, I'm Pawan Sapkota!
 
 Welcome to my GitHub profile! I am a student with a strong passion for programming and technology.

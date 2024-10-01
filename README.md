@@ -31,10 +31,11 @@
 
 I participated in Hacktoberfest 2024!
 
-![Hacktoberfest Badge](https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp)
+<img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Hacktoberfest Badge" width="200"/>
 
 ## Badge Information
 - **Badge ID:** cm1qds9xg10090cl5kuloftlr
 - **Awarded On:** 2024-10-01
+
 
 

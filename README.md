@@ -29,6 +29,12 @@
 
 
 
-![Hacktoberfest Badge]([https://your-badge-image-url](https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp))
+I participated in Hacktoberfest 2024!
+
+![Hacktoberfest Badge](https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp)
+
+## Badge Information
+- **Badge ID:** cm1qds9xg10090cl5kuloftlr
+- **Awarded On:** 2024-10-01
 
 

@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/pawansapkota100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pawansapkota100/" height="30" width="40" /></a>
 <a href="https://instagram.com/paawan_sapkotaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/paawan_sapkotaa/" height="30" width="40" /></a>
 <a href="https://www.pawan1.com.np/">
-        <img src="https://img.icons8.com/?size=96&id=VJz2Ob51dvZJ&format=png" alt="Website Icon" style="vertical-align: middle; width: 20px; height: 20px;">
+        <img src="https://img.icons8.com/?size=200&id=VJz2Ob51dvZJ&format=png" alt="Website Icon" style="vertical-align: middle; width: 20px; height: 20px;">
     </a>
 </p>
 
